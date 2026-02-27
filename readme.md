@@ -13,3 +13,11 @@ CM3 : Cours3 du 20/02/2026
 REST PHP
 Création au fur à mesure l'architecture MVC 
 
+CM4 : TP du 27/02/2026
+Test rest php avec serveur mysql 
+Guide de testing : 
+Lancer mysql server avec xampp 
+lancer l'api en executant  TP4/API+DAD
+Lancer nottre application PHP et se connectant automatiquement grace au configuration vers l'api 
+
+
